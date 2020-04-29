@@ -4,7 +4,7 @@
 
 0810 Software creates open-source-software, to empower the  open-source-software developing community we are creating our own  [~~open-source-~~](#Not-Open-Source)software license. ‘The 0810 Software simple and permissive  [~~open source~~](#Not-Open-Source) license (rev. 1.0)’ is our first self-created license and we are proud to anounce that you are now free to use it to license your  own [~~open-source-~~](#Not-Open-Source)software (you will need to change “[licensor]” with your own, company or repository owner’s name!).
 
-
+[Embed the latest version in your project](https://github.com/Marnix0810/0810-SPL/releases/latest)
 
 <font color="red">
 
